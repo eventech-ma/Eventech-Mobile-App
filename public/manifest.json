@@ -1,0 +1,17 @@
+{
+  "short_name": "EventTECH",
+  "name": "EventTECH",
+  "icons": [
+      {
+          "src": "/images/logo1.jpg",
+          "type": "image/png",
+          "sizes": "1024x1024",
+          "purpose": "any maskable"
+      }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+
+}

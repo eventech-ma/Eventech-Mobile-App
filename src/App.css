@@ -1,0 +1,17 @@
+
+video {
+  width: 90%;
+  height: auto;
+}
+
+canvas{
+  width: 0%;
+  height: 0%;
+}
+#scanner-container {
+  height: 30vh;
+  display: flex;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+}
